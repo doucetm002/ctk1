@@ -53,9 +53,9 @@
                                                   </block>
                                                 </value>
                                                 <next>
-                                                  <block type="movement_leftmotor" id="430" inline="true">
-                                                    <value name="MOVLEFT">
-                                                      <block type="math_number" id="437">
+                                                  <block type="movement_rightmotor" id="454" inline="true">
+                                                    <value name="MOVRIGHT">
+                                                      <block type="math_number" id="461">
                                                         <field name="NUM">5000</field>
                                                       </block>
                                                     </value>
