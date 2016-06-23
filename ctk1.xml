@@ -49,14 +49,14 @@
                                               <block type="robot_delay" id="407" inline="true">
                                                 <value name="DELAY">
                                                   <block type="math_number" id="414">
-                                                    <field name="NUM">10000</field>
+                                                    <field name="NUM">5000</field>
                                                   </block>
                                                 </value>
                                                 <next>
                                                   <block type="movement_leftmotor" id="430" inline="true">
                                                     <value name="MOVLEFT">
                                                       <block type="math_number" id="437">
-                                                        <field name="NUM">7000</field>
+                                                        <field name="NUM">5000</field>
                                                       </block>
                                                     </value>
                                                   </block>
