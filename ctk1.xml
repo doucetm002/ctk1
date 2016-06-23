@@ -35,11 +35,7 @@
                                   </block>
                                 </value>
                                 <next>
-                                  <block type="movement_stutter" id="317">
-                                    <next>
-                                      <block type="robot_delay" id="383" inline="true"></block>
-                                    </next>
-                                  </block>
+                                  <block type="movement_stutter" id="317"></block>
                                 </next>
                               </block>
                             </next>
